@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[9783,["/_next/static/chunks/8c82a3a69d1ed7e2.js"],"default"]
+3:I[54876,["/_next/static/chunks/8c82a3a69d1ed7e2.js"],"default"]
+4:I[24318,["/_next/static/chunks/8c82a3a69d1ed7e2.js"],"ClientPageRoot"]
+5:I[6433,["/_next/static/chunks/3456fa900ec3efaf.js"],"default"]
+8:I[79629,["/_next/static/chunks/8c82a3a69d1ed7e2.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+b:I[79629,["/_next/static/chunks/8c82a3a69d1ed7e2.js"],"ViewportBoundary"]
+d:I[79629,["/_next/static/chunks/8c82a3a69d1ed7e2.js"],"MetadataBoundary"]
+f:I[82717,["/_next/static/chunks/8c82a3a69d1ed7e2.js"],"default"]
+:HL["/_next/static/chunks/7dc09e555beba95a.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"Dl14bTMLif-lXpu8qYrNz","c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/7dc09e555beba95a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"geist_9232b81-module__uX3Naq__className bg-background text-foreground","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[["$","$L4",null,{"Component":"$5","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@6","$@7"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/3456fa900ec3efaf.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],{},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$@c"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$9",null,{"name":"Next.Metadata","children":"$@e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[]],"S":true}
+6:{}
+7:"$0:f:0:1:1:children:0:props:children:0:props:serverProvidedParams:params"
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+e:[["$","title","0",{"children":"Portfolio - MERN Stack Developer"}],["$","meta","1",{"name":"description","content":"Explore my work, projects, and skills in web development"}],["$","meta","2",{"name":"generator","content":"v0.app"}]]
+a:null
